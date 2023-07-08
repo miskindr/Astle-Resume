@@ -5,80 +5,82 @@ title: W. Abram Astle's Resume
 # W. Abram Astle
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="https://c-a-s-t-l-e.github.io/">Personal Website</a>
+| <a href="https://www.linkedin.com/in/abram-astle-3194a2279/">LinkedIn</a>
+| <a href="https://github.com/c-a-s-t-l-e">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Major: Data Science
 
+**Relevant Courses:**
 
-## Related Experience
+- Data Wrangling and Visualization
+  
+- Data Science Programming
+  
+- Intermediate Statistics
+  
+- Introduction to Databases
 
-### Internships
+`August 2019 - December 2020`
+__University of Idaho__, Moscow, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Major: Mathematics
+  
+**Relevant Courses:**
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Designing Data Structures
 
-### Data Science Lead
+- Big Data Management
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Business Statistics
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`Janurary 2017 - May 2019`
+__College of Southern Idaho__, Twin Falls, ID
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Major: Associates of Liberal Arts
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+**Awards:**
 
-### Data Science Consulting Team
+- Summa Cum Laude
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## Work Experience
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`April 2023 - June 2023`
+__Research and Business Development Center__, Language Data Annotator
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Managed large datasets and private data in a discrete and organized manner
+  
+- Virtually worked with a team to create best practices and manage a workflow
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Attended virtual meetings to share progress, issues, and learn about updates to the project
+  
+- Managed and improved fine and broad labeling systems
 
+- Wrote numerous scripts
 
-## Service and Work History
+`May 2020 - August 2020`
+__University of Idaho__, Undergraduate Researcher
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Gave weekly reports on technical concepts involving data management, mathematics, and computing.
 
+- Contributed to the development of a streamlined machine learning system for processing X-ray images.
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Volunteer Experience
 
+`2021-2023`
+__Service Missionary__, Boston, MA
+
+- Self-taught the Spanish language and was able to fluently converse with a wide variety of native Spanish speakers in New England
+
+- Conducted individual and group trainings for volunteers
 
 
 <!-- ### Footer
