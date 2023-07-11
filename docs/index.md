@@ -1,11 +1,10 @@
 ---
 layout: cv
-title: W. Abram Astle's Resume
+title: Abram Astle's Resume
 ---
-# W. Abram Astle
+# Abram Astle
 
 <div id="webaddress">
-<a href="https://c-a-s-t-l-e.github.io/">Personal Website</a>
 | <a href="https://www.linkedin.com/in/abram-astle-3194a2279/">LinkedIn</a>
 | <a href="https://github.com/c-a-s-t-l-e">GitHub</a>
 </div>
@@ -80,7 +79,7 @@ __Service Missionary__, Boston, MA
 
 - Self-taught the Spanish language and was able to fluently converse with a wide variety of native Spanish speakers in New England
 
-- Conducted individual and group trainings for volunteers
+- Conducted individual and group training for volunteers
 
 
 <!-- ### Footer
